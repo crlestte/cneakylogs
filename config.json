@@ -1,15 +1,15 @@
 {
-      "input": "./gallery",
-      "output": "./build_output",
-      "title": "cneakylogs",
-      "sort-albums-by": "date",
-      "sort-albums-direction": "desc",
-      "sort-media-by": "date",
-      "sort-media-direction": "desc",
-      "download-photos": "copy",
-      "cleanup": true,
-      "theme": "flow",
-      "css": "./custom.css",
-      "footer": "cneakylogs",
-      "usage-stats": false
+        "input": "./gallery",
+        "output": "./build_output",
+        "title": "cneakylogs",
+        "sort-albums-by": "start-date",
+        "sort-albums-direction": "desc",
+        "sort-media-by": "date",
+        "sort-media-direction": "desc",
+        "download-photos": "copy",
+        "cleanup": true,
+        "theme": "flow",
+        "css": "./custom.css",
+        "footer": "cneakylogs",
+        "usage-stats": false
 }
